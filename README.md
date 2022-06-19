@@ -1,4 +1,4 @@
-Hi 👋 My name is Wanjiru
+Hi 👋
 ========================
 
 Fullstack Web Developer
@@ -6,9 +6,8 @@ Fullstack Web Developer
 
 I am the change I want to see.
 
-* 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [carolciru393@gmail.com](mailto:carolciru393@gmail.com)
-* 🧠  I'm learning React & Ruby
+
 
 ### Skills
 
