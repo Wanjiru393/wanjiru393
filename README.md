@@ -1,7 +1,7 @@
-I'm a Full-stack Web Developer
+Hello! I'm a Full-stack Web Developer
 -----------------------
 
-* ✉️  You can contact me at [carolciru393@gmail.com](mailto:carolciru393@gmail.com)
+* You can contact me at [carolciru393@gmail.com](mailto:carolciru393@gmail.com)
 
 
 ### Skills
