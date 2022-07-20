@@ -1,6 +1,3 @@
-Hi There! 👋
-========================
-
 I'm a Full-stack Web Developer
 -----------------------
 
