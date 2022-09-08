@@ -1,13 +1,13 @@
-Hi!I'm Wanjiru Charity
+Hi! I'm Wanjiru Charity
 ================================
 
 Full-Stack Software Engineer
 ----------------------------
 
-I am a passionate and open-minded developer with cutting edge Software Development skills .I am committed to viable and easily functional app solutions for clients using the best technology, and a good chunk of creativity.
+I am a passionate and open-minded developer with cutting edge skills. I am committed to viable and easily functional app solutions for clients using the best technology, and a good chunk of creativity.
 
 * 🖥️  [Portfolio](http://wanjiru393.github.io/Portfolio/)
-* ✉️  You can contact me at[cwanjiru393@gmail.com](mailto:cwanjiru393@gmail.com)
+* ✉️  Contact me at [cwanjiru393@gmail.com](mailto:cwanjiru393@gmail.com)
 
 ### Skills
 
@@ -25,9 +25,10 @@ I am a passionate and open-minded developer with cutting edge Software Developme
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Wanjiru393" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wanjiru-charity-6a6b821ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_samuels16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Wanjiru393" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/wanjiru-charity-6a6b821ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/_samuels16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 ### My GitHub Stats
 
@@ -35,6 +36,3 @@ I am a passionate and open-minded developer with cutting edge Software Developme
 
 <a href="http://www.github.com/Wanjiru393"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanjiru393&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Wanjiru393"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
