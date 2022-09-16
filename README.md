@@ -22,7 +22,6 @@ I am a passionate and open-minded developer with cutting edge skills. I am commi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Wanjiru393" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
