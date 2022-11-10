@@ -8,7 +8,7 @@ I am a passionate and open-minded developer with cutting edge skills. I am commi
 
 * ✉️  Contact me at [cwanjiru393@gmail.com](mailto:cwanjiru393@gmail.com)
 
-### Techinical Skills
+### Technical Skills
 
 - Programming Languages: Python ,C ,JavaScript.
 - Backend Development: Django, Node.js.
