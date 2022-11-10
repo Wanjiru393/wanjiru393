@@ -1,4 +1,4 @@
-Wanjiru Charity 
+
 ================================
 
 Full-Stack Software Engineer
