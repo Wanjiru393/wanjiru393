@@ -1,4 +1,4 @@
-Hi! I'm Wanjiru Charity
+Wanjiru Charity 
 ================================
 
 Full-Stack Software Engineer
@@ -7,6 +7,13 @@ Full-Stack Software Engineer
 I am a passionate and open-minded developer with cutting edge skills. I am committed to viable and easily functional app solutions for clients using the best technology, and a good chunk of creativity.
 
 * ✉️  Contact me at [cwanjiru393@gmail.com](mailto:cwanjiru393@gmail.com)
+
+### Techinical Skills
+
+- Programming Languages: Python ,C ,JavaScript.
+- Backend Development: Django, Node.js.
+- Data Storage & Processing: MySQL, PostgreSQL. 
+- Cloud Infrastructure: AWS, Docker
 
 ### Skills
 
