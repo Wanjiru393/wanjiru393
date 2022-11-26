@@ -1,7 +1,7 @@
 
 ================================
 
-Full-Stack Software Engineer
+Software Engineer
 ----------------------------
 
 I am a passionate and open-minded developer with cutting edge skills. I am committed to viable and easily functional app solutions for clients using the best technology, and a good chunk of creativity.
