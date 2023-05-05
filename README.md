@@ -1,16 +1,14 @@
 
 ================================
 
-Software Engineer
+Software Developer
 ----------------------------
 
-I am a passionate and open-minded developer with cutting edge skills. I am committed to viable and easily functional app solutions for clients using the best technology, and a good chunk of creativity.
-
+Passionate and open-minded Software Developer with a strong foundation web development and experience in database design and REST APIs. Committed to creating viable and functional app solutions for clients using the best technology and creativity.
 
 ### Technical Skills
 
-- Programming Languages: Python ,C ,JavaScript.
-- Backend Development: Django, Node.js.
+- Programming Languages & Frameworks: Python ,C ,React,JavaScript,Django,Angular, NodeJS
 - Data Storage & Processing: MySQL, PostgreSQL. 
 - Cloud Infrastructure: AWS, Docker
 
